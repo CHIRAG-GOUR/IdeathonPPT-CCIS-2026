@@ -15,15 +15,4 @@ yarn-error.log*
 .vercel
 *.tsbuildinfo
 next-env.d.ts
-public/media/
-public/images/
-public/sounds/
-public/audio/
 *.mp4
-*.mov
-*.gif
-*.png
-*.jpg
-*.jpeg
-*.mp3
-*.webp
