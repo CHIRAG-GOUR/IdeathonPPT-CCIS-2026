@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "RecallMax": {
+      "source": "christopherlhammer11-ai/recallmax",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/SKILL.md",
+      "computedHash": "0a26e1f21cf452b8db7ea33972011fe0fda1d10a0c6674e1523450976035c7c4"
+    }
+  }
+}
