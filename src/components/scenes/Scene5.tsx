@@ -34,7 +34,7 @@ export default function Scene5() {
   const timeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   useEffect(() => {
-    // const audio = new Audio("/sounds/car-sound.mp3");
+    // 
     // audio.volume = 0.6;
     // audioRef.current = audio;
 

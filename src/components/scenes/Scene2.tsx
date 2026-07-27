@@ -71,7 +71,7 @@ export default function Scene2() {
           transition={{ duration: 1, delay: 0.5 }}
           className="mb-4 md:mb-6 w-48 md:w-72 h-auto drop-shadow-xl"
         >
-          <img src="/media/Slide_2.gif" alt="Mountain Animation" className="w-full h-full object-contain mix-blend-multiply" />
+          <img src="./media/Slide_2.gif" alt="Mountain Animation" className="w-full h-full object-contain mix-blend-multiply" />
         </motion.div>
 
         <motion.div

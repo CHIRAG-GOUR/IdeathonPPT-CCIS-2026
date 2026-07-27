@@ -74,7 +74,7 @@ export default function Scene9() {
                   className="w-56 h-56 lg:w-80 lg:h-80 rounded-3xl overflow-hidden shadow-2xl flex-shrink-0 border-4 mt-auto"
                   style={{ borderColor: i === 2 ? '#FFD700' : 'rgba(255,255,255,0.8)' }}
                 >
-                  <img src={`/media/scene9_line${i+1}.png`} alt="Illustration" className="w-full h-full object-cover" />
+                  <img src={`./media/scene9_line${i+1}.png`} alt="Illustration" className="w-full h-full object-cover" />
                 </div>
               </motion.div>
 

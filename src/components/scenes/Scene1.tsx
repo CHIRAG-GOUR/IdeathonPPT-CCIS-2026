@@ -24,7 +24,7 @@ export default function Scene1() {
           transition={{ duration: 0.8, ease: "easeOut" }}
           className="w-48 md:w-72 h-auto mb-0 drop-shadow-xl"
         >
-          <img src="/media/Slide_1.gif" alt="Ideathon Animation" className="w-full h-full object-contain mix-blend-multiply" />
+          <img src="./media/Slide_1.gif" alt="Ideathon Animation" className="w-full h-full object-contain mix-blend-multiply" />
         </motion.div>
 
         {/* Title animates in later */}

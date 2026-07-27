@@ -22,7 +22,6 @@ const MEDIA_ASSETS = [
 const AUDIO_ASSETS = [
   "/sounds/whoosh.mp3",
   "/sounds/startup.mp3",
-  "/sounds/car-sound.mp3",
   "/sounds/ting-sound.mp3",
   "/sounds/winner-sound.mp3"
 ];

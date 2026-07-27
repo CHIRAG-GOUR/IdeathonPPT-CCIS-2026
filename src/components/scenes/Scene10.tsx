@@ -135,7 +135,7 @@ export default function Scene10() {
                 className="mt-12 w-64 md:w-96 rounded-2xl overflow-hidden"
               >
                 <video 
-                  src="/media/Ideathon_hands.mov"
+                  src="./media/Ideathon_hands.mov"
                   autoPlay 
                   loop 
                   muted 

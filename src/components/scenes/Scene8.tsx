@@ -52,7 +52,7 @@ export default function Scene8() {
             initial={{ opacity: 0, scale: 0.8 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.8, type: "spring" }}
-            src="/media/Watch.gif"
+            src="./media/Watch.gif"
             alt="Clock"
             className="w-16 md:w-24 h-auto object-contain mix-blend-multiply drop-shadow-none"
           />
