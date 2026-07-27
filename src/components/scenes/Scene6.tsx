@@ -66,7 +66,7 @@ const PodiumColumn = ({ level, image, height, mainColor, darkColor, topColor, te
 
 export default function Scene6() {
   const levels = ideathonData.scene6.levels; // [Level 1, Level 2, Level 3]
-  const images = ["/media/level_1_new.png", "/media/level_2_new.png", "/media/level_3_new.png"];
+  const images = ["./media/level_1_new.png", "./media/level_2_new.png", "./media/level_3_new.png"];
 
   return (
     <SceneWrapper>
